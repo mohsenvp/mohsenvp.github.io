@@ -1,0 +1,74 @@
+﻿.impress-not-supported #about
+{
+	width:900px;
+	margin-top:40px;
+}
+.impress-not-supported .about-info
+{
+   width:840px !important;
+   margin-top: 20px !important;
+}
+.impress-not-supported .about-panel
+{
+    max-height:90000px !important;
+    padding-top: 0px !important;
+    width:840px;
+}
+.impress-not-supported .resume
+{
+    width:820px !important;
+}
+.impress-not-supported .resume-panel
+{
+    padding-left:20px !important;
+    max-height:900000px !important;
+}
+.impress-not-supported #resume {
+	width:900px;
+	margin-top:70px;
+}
+.impress-not-supported #resume .place {
+	width: 595px !important;
+}
+.impress-not-supported #skills {
+	width:900px;
+	margin-top:50px;
+}
+.impress-not-supported #portfolio {
+	width:900px;
+	clear:both;
+	height: auto !important;
+	padding-bottom:40px !important;
+	margin-top:50px;
+}
+.impress-not-supported .portfolio-panel {
+	margin:auto;
+}
+.impress-not-supported #diagram {
+	margin-left:160px;
+}
+.impress-not-supported .overview-button {
+	display:none;
+}
+.impress-not-supported #contact {
+	margin-top:50px;
+}
+.impress-not-supported .map {
+	width:880px;
+	padding:0px;
+	margin:0px;
+}
+.impress-not-supported #credits {
+	text-align:center;
+	margin-top:40px;
+}
+.impress-not-supported #page
+{
+	margin-bottom:30px;
+	margin-top:30px;
+	max-height:900000px;
+}
+.map-effect:before, .map-effect:after {
+
+	max-height:900px;
+}
