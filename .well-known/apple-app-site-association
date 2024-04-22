@@ -1,1 +1,7 @@
-asd
+{
+    "webcredentials": {
+        "apps": [
+            "autofillCred.mohsen.com",
+        ]
+    }
+}
