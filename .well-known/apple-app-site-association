@@ -1,7 +1,19 @@
 {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4U3LVG7W5Y.autofillCred.mohsen.com",
+        "paths": ["*"]
+      }
+    ]
+  },
+
     "webcredentials": {
         "apps": [
             "autofillCred.mohsen.com"
         ]
     }
+
 }
+
